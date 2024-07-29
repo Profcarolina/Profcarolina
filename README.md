@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá! Bem vindos 🖤
 
-<!--
-**Profcarolina/Profcarolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Eu sou a **Professora Carolina**, e este é meu perfil, tentando aprender para ensinar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Eu gosto de Ler;
+- EU gosto de viajar;
+- Eu gosto de sair para dançar;
+- E estou aprendendo a mexer neste site.
+  
+### Você pode falar comigo pelo e-mail: 📧 cvitoria@prof.educacao.sp.gov.br OU
+
+no Instagram: 🤏 @recemprofessora  
+
+(![image](https://github.com/user-attachments/assets/595666c8-fc40-44cf-a5ca-6150567cd58c)
